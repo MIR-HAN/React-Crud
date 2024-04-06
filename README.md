@@ -1,6 +1,4 @@
-# React + Vite
-
- <h1> Todo-Crud-App </h1>
+# <h1> React-Crud-App </h1>
 
 <h2> Programming Languages Used</h2>
 
