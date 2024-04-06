@@ -1,0 +1,75 @@
+{
+  "todos": [],
+  "users": [
+    {
+      "user_id": "1",
+      "username": "JohnDoe",
+      "email": "john.doe@example.com",
+      "task": "Create a to-do list for the week and prioritize tasks.",
+      "id": "bd15"
+    },
+    {
+      "user_id": "2",
+      "username": "JaneSmith",
+      "email": "jane.smith@example.com",
+      "task": "Set an early morning alarm to kickstart your day with productivity.",
+      "id": "4a1a"
+    },
+    {
+      "user_id": "3",
+      "username": "MikeJohnson",
+      "email": "mike.johnson@example.com",
+      "task": "Stay hydrated throughout the day by drinking at least 8 glasses of water.",
+      "id": "7627"
+    },
+    {
+      "user_id": "4",
+      "username": "EmilyDavis",
+      "email": "emily.davis@example.com",
+      "task": "Declutter your workspace and organize essential items for increased focus.",
+      "id": "a742"
+    },
+    {
+      "user_id": "5",
+      "username": "AlexWilson",
+      "email": "alex.wilson@example.com",
+      "task": "Achieve your daily step goal or engage in a quick workout for physical well-being.",
+      "id": "d17d"
+    },
+    {
+      "user_id": "6",
+      "username": "SophieBrown",
+      "email": "sophie.brown@example.com",
+      "task": "Dedicate 30 minutes to an hour for reading a chapter of a book.",
+      "id": "44ec"
+    },
+    {
+      "user_id": "7",
+      "username": "ChrisMiller",
+      "email": "chris.miller@example.com",
+      "task": "Water and care for your plant to add a touch of nature to your surroundings.",
+      "id": "b936"
+    },
+    {
+      "user_id": "8",
+      "username": "OliviaTaylor",
+      "email": "olivia.taylor@example.com",
+      "task": "Listen to a podcast or calming music while working to enhance concentration.",
+      "id": "f389"
+    },
+    {
+      "user_id": "9",
+      "username": "DanielClark",
+      "email": "daniel.clark@example.com",
+      "task": "Take a break and engage in a creative activity, such as doodling or sketching.",
+      "id": "ea37"
+    },
+    {
+      "user_id": "10",
+      "username": "MeganWhite",
+      "email": "megan.white@example.com",
+      "task": "Set aside specific times to check and respond to messages to avoid constant distractions.",
+      "id": "c67f"
+    }
+  ]
+}

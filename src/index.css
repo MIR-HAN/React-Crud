@@ -1,0 +1,18 @@
+body{
+  background: rgb(17, 16, 16);
+  color: white;
+}
+
+ul li:hover > .date{
+  color: white;
+}
+.date{
+   position: absolute;
+   right: -48px;
+   color: gray;
+}
+.edit{
+  display: flex;
+  justify-content: space-between;
+  gap:110px;
+}
